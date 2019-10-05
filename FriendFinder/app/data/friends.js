@@ -1,8 +1,26 @@
 var friends = [
 	
 	{
+		
+		
 		name: "Benjamin Browder",
 		photo: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		scores: [
+			"5",
+			"1",
+			"4",
+			"3",
+			"1",
+			"5",
+			"1",
+			"4",
+			"3",
+			"1"
+		]
+	},
+	{	
+		name: "Ahmed Tamid",
+		photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg" ,
 		scores: [
 			"5",
 			"1",
