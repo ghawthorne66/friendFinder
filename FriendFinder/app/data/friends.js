@@ -3,8 +3,8 @@ var friends = [
 	{
 		
 		
-		name: "Bob Squarepants",
-		photo: "https://vignette.wikia.nocookie.net/spongebob-dictionary/images/c/cb/SpongeBob.png/revision/latest?cb=20171124141154,
+		name: "SpongeBob Squarepants",
+		photo: "https://vignette.wikia.nocookie.net/spongebob-dictionary/images/c/cb/SpongeBob.png/revision/latest?cb=20171124141154",
 		scores: [
 			"5",
 			"1",
@@ -35,8 +35,8 @@ var friends = [
 		]
 	},
 	{
-		name: "Vladamir VanDamme",
-		photo: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		name: "King Neptune",
+		photo: "https://www.j-14.com/wp-content/uploads/2019/07/spongebob-squarepants-characters-21.png?fit=600%2C550",
 		scores: [
 			"3",
 			"1",
@@ -51,8 +51,8 @@ var friends = [
 		]
 	},
 	{
-		name: "Brian Eastman",
-		photo: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		name: "Judy",
+		photo: "https://vignette.wikia.nocookie.net/spongebob/images/1/18/Judy.jpeg/revision/latest/scale-to-width-down/630?cb=20190520171128",
 		score: [
 			"3",
 			"1",
