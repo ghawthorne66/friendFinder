@@ -12,7 +12,7 @@ module.exports = function (app) {
         
         // capture the user input
         var userData = req.body // more to this
-        console.log(req.body); 
+        // console.log(req.body); 
         // var =// for testing
         // Convert each user's results into a simple array of numbers (ex: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]).
         

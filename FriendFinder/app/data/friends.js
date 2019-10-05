@@ -3,8 +3,8 @@ var friends = [
 	{
 		
 		
-		name: "Benjamin Browder",
-		photo: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		name: "Bob Squarepants",
+		photo: "https://vignette.wikia.nocookie.net/spongebob-dictionary/images/c/cb/SpongeBob.png/revision/latest?cb=20171124141154,
 		scores: [
 			"5",
 			"1",
@@ -19,8 +19,8 @@ var friends = [
 		]
 	},
 	{	
-		name: "Ahmed Tamid",
-		photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg" ,
+		name: "Sandy Cheeks",
+		photo: "https://vignette.wikia.nocookie.net/youtubepoop/images/6/62/Sandy_Cheeks.jpg/revision/latest?cb=20091104204007" ,
 		scores: [
 			"5",
 			"1",
