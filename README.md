@@ -8,7 +8,7 @@ https://still-stream-13278.herokuapp.com/
 ## Overview
 - A Node & Express based web application that simulates a Spongebob Squarepants themed dating app.  A full-stack site that uses Express to handle routing.  
    
-Friend Finder Home Page<a href="https://gyazo.com/58df05c48acb8c6248c9b38ae20b74c2"><img src="https://i.gyazo.com/58df05c48acb8c6248c9b38ae20b74c2.jpg" alt="Image from Gyazo" width="1910"/></a>
+Friend Finder Home Page<a href="https://gyazo.com/87a52638a457384ebbcf6cf30613db16"><img src="https://i.gyazo.com/87a52638a457384ebbcf6cf30613db16.jpg" alt="Image from Gyazo" width="1872"/></a>
 
 ## Description
 - Friend Finder implements friend matching based on the user's responses to a ten-question survey. The user responds to questions with values from 1 (Strongly Disagree) to 5 (Strongly Agree). 
