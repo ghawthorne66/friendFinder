@@ -1,8 +1,14 @@
+console.log("FOO")
+alert("Made it!")
+
 $(document).ready(function () {
+    
 
 
     // Capture the form inputs
     $("#submit-btn").on("click", function (event) {
+       
+
         event.preventDefault();
 
         // Form validation

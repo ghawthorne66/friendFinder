@@ -1,8 +1,6 @@
 var friends = [
 	
 	{
-		
-		
 		name: "SpongeBob Squarepants",
 		photo: "https://vignette.wikia.nocookie.net/spongebob-dictionary/images/c/cb/SpongeBob.png/revision/latest?cb=20171124141154",
 		scores: [
@@ -53,7 +51,7 @@ var friends = [
 	{
 		name: "Judy",
 		photo: "https://vignette.wikia.nocookie.net/spongebob/images/1/18/Judy.jpeg/revision/latest/scale-to-width-down/630?cb=20190520171128",
-		score: [
+		scores: [
 			"3",
 			"1",
 			"4",

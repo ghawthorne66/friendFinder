@@ -8,7 +8,7 @@ $(document).ready(function () {
             //for each person show the image with the name
             for (var i = 0; i < data.length; i++) {
                 
-                // Make a div with jQuery and store it in a variable named animalDiv.
+                // Make a div with jQuery and store it in a variable named friendDiv.
                 var friendDiv = $("<div>");
                 friendDiv.addClass("friend");
 
