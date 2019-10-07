@@ -1,3 +1,7 @@
+"scripts": {
+  "start": "node server.js"
+ }
+
 {
   "name": "friendFinder",
   "version": "1.0.0",
