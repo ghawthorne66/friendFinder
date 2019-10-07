@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "friend finder (expressjs mysql homework)",
   "main": "server.js",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -21,9 +17,8 @@
   "bugs": {
     "url": "https://github.com/ghawthorne66/friendFinder/issues"
   },
-  "homepage": "https://github.com/ghawthorne66/friendFinder#readme"
+  "homepage": "https://github.com/ghawthorne66/friendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
-
-"scripts": {
-  "start": "node server.js"
- }
