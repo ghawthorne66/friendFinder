@@ -16,14 +16,14 @@ module.exports = function (app) {
 
         var match = {
             closestMatch: {},
-            oppositesScore: 40
+            oppositesScore: Infinity
         };
 
-        var bestMatch = {
-            name: "",
-            photo: "",
-            friendDifference: 40
-        } 
+        // var bestMatch = {
+        //     name: "",
+        //     photo: "",
+        //     friendDifference: Infinity
+        // } 
 
         var userData = req.body;
         var userScores = userData.scores;
