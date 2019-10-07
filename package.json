@@ -1,7 +1,3 @@
-"scripts": {
-  "start": "node server.js"
- }
-
 {
   "name": "friendFinder",
   "version": "1.0.0",
@@ -12,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -26,3 +23,7 @@
   },
   "homepage": "https://github.com/ghawthorne66/friendFinder#readme"
 }
+
+"scripts": {
+  "start": "node server.js"
+ }
