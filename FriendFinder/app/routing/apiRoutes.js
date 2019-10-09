@@ -19,11 +19,11 @@ module.exports = function (app) {
             oppositesScore: Infinity
         };
 
-        // var bestMatch = {
-        //     name: "",
-        //     photo: "",
-        //     friendDifference: Infinity
-        // } 
+        var bestMatch = {
+            name: "",
+            photo: "",
+            friendDifference: Infinity
+        } 
 
         var userData = req.body;
         var userScores = userData.scores;
